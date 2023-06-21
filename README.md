@@ -13,15 +13,14 @@ Here is the translation of the text you provided:
 
 ## Usage example
 1. Run Initial setting.
-2. Create a new section.
-<img src="https://github.com/ryosuzaki/git-in-colab/assets/71608299/6e7d70d0-b7f4-42f5-baef-373711fc004c" width="50%">
+2. Create a new section and change the section name to the repository name you want to handle.
+<img src="https://github.com/ryosuzaki/git-in-colab/assets/71608299/5355f32f-870b-484f-bb62-493c846afefd" width="50%">
 
-3. Change the section name to the repository name you want to handle.
-4. Copy the code in Template.
+3. Copy the code in Template.
 <img src="https://github.com/ryosuzaki/git-in-colab/assets/71608299/38f07cb4-8eb5-4f25-9cfc-b67625560e02" width="50%">
 
-5. Change repo_name to the repository name.
-6. Now it's easy to handle multiple repositories.
+4. Change repo_name to the repository name.
+5. Now it's easy to handle multiple repositories.
 
 If there are any mistakes or improvements, please let me know.
 
@@ -38,15 +37,12 @@ I hope this helps! Let me know if you have any other questions.
 
 ## 使用例
 1. Initial settingを実行。
-2. 新しいセクションを作成。
-<img src="https://github.com/ryosuzaki/git-in-colab/assets/71608299/6e7d70d0-b7f4-42f5-baef-373711fc004c" width="50%">
-
-3. セクション名を扱うリポジトリ名に変更。
-4. Template内のコードをコピぺ。
+2. 新しいセクションを作成し、扱うリポジトリ名に変更。
+<img src="https://github.com/ryosuzaki/git-in-colab/assets/71608299/5355f32f-870b-484f-bb62-493c846afefd" width="50%">
+3. Template内のコードをコピぺ。
 <img src="https://github.com/ryosuzaki/git-in-colab/assets/71608299/38f07cb4-8eb5-4f25-9cfc-b67625560e02" width="50%">
-
-5. repo_nameをリポジトリ名に変更。
-6. これで複数リポジトリを扱うのが楽。
+4. repo_nameをリポジトリ名に変更。
+5. これで複数リポジトリを扱うのが楽。
 
 
 改善点や間違いがありましたら訂正してくださるとありがたいです。
